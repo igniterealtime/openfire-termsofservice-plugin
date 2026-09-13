@@ -16,6 +16,7 @@
     <description>Requires users to accept the current terms of service. Ships with a SASL2 task as its enforcement mechanism; additional mechanisms may be added in the future.</description>
 
     <build>
+        <sourceDirectory>src/java</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
